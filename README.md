@@ -1,1 +1,4 @@
 # StatusPage
+# Authors
+- FreshVlay
+- MCTzOCK
